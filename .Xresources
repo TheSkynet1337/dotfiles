@@ -1,0 +1,38 @@
+URxvt.font: xft:Fura Code Regular Nerd Font Complete:pixelsize=12:minspace=False, xft:Inconsolata Nerd Font Mono:size=15:minspace=False
+URxvt.print-pipe: "cat > /dev/null"
+URxvt.perl-ext-common: default,matcher,resize-font,clipboard
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.matcher.button: 1
+URxvt.scrollBar: false
+URxvt.intensityStyles:	false
+URxvt.background: [85]#1f2430
+URxvt.depth: 32
+URxvt.letterSpace: -3
+
+
+*color0:  #191e2a
+*color8:  #686868
+
+*color1:  #ed8274
+*color9:  #ffcc66
+
+*color2:  #fad07b
+*color10: #bae67e
+
+*color3:  #a6cc70
+*color11: #ffd580
+
+*color4:  #6dcbfa
+*color12: #73d0ff
+
+*color5:  #cfbafa
+*color13: #d4bfff
+
+*color6:  #90e1c6
+*color14: #95e6cb
+
+*color7:  #c7c7c7
+*color15: #ffffff
+
+*foreground: #cbccc6
+*foreground_bold: #A8A19F
